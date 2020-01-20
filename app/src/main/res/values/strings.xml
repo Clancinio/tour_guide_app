@@ -1,0 +1,69 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Ireland City Guide</string>
+    <string name="select_a_city_for_info">Select a city for info</string>
+    <string name="POSITION">POSITION</string>
+    <string name="CITY_ARRAY">CITY_ARRAY</string>
+    <string name="DESCRIPTION_ARRAY">DESCRIPTION_ARRAY</string>
+    <string name="DESCRIPTION_FRAG">DESCRIPTION_FRAG</string>
+
+    <string-array name="cities">
+        <item>Sligo</item>
+        <item>Galway</item>
+        <item>Cork</item>
+        <item>Waterford</item>
+        <item>Dublin</item>
+        <item>Kilkenny</item>
+        <item>Donegal</item>
+        <item>Limerick</item>
+     </string-array>
+
+     <string-array name="cities_description">
+         <item> Sligo is a historic, cultural, commercial, industrial, retail and service centre
+         of regional importance in the West of Ireland, and is served by rail, port and road
+         links. Sligo is also a tourist destination, being situated on the Wild Atlantic Way,
+         with many literary and cultural associations.
+         </item>
+         <item> Galway, a harbour city on Ireland’s west coast, sits where the River Corrib meets
+         the Atlantic Ocean. The city’s hub is 18th-century Eyre Square, a popular meeting
+         spot surrounded by shops and traditional pubs that often offer live Irish folk
+         music. Nearby, stone-clad cafes, boutiques and art galleries line the winding lanes
+         of the Latin Quarter, which retains portions of the medieval city walls.
+         </item>
+         <item> Cork is a city in south-west Ireland, in the province of Munster. As of the 2016 census,
+         the city had a population of 125,657, but following a boundary extension in 2019, the
+         population increased to c. 210,000. It is the second largest city in the Republic of
+         Ireland.
+         </item>
+         <item> Waterford is a city in Ireland. It is in County Waterford in the south east
+             of Ireland and is part of the province of Munster. The city is situated at the
+             head of Waterford Harbour. It is the oldest and the fifth most populous city in
+             the Republic of Ireland
+         </item>
+         <item> Dublin is the capital and largest city of Ireland. Situated on a bay on the
+             east coast, at the mouth of the River Liffey, it lies within the province of
+             Leinster. It is bordered on the south by the Dublin Mountains, a part of the
+             Wicklow Mountains range.
+         </item>
+         <item> Kilkenny is a city in Ireland and the county town of County Kilkenny in the
+             province of Leinster. It is built on both banks of the River Nore. The city is
+             administered as a municipal district within Kilkenny County Council, although
+             the Local Government Reform Act 2014 allowed for "the continued use of the
+             description city". The 2016 census gave the total population of Kilkenny as
+             26,512
+         </item>
+         <item>Donegal is a town at the mouth of the River Eske, in northwest Ireland. Originally built in the 15th century, Donegal Castle has later
+             additions from the Jacobean period. The Four Masters Memorial obelisk honours
+             4 scribes from the nearby Franciscan friary, now in ruins. Donegal Railway
+             Heritage Centre hosts rail memorabilia in an old station house. Donegal Bay is
+             home to a seal colony, plus cormorants and cranes.
+         </item>
+         <item>Limerick is a major city in the Republic of Ireland, set in Munster
+             province in the south of the country. Its compact old town is known for
+             the medieval-era St. Mary’s Cathedral and St. John’s square, which is
+             lined with Georgian townhouses. Standing along the River Shannon, the
+             13th-century King John’s Castle is one of the city’s most recognisable
+             sites.
+         </item>
+
+      </string-array>
+  </resources>
